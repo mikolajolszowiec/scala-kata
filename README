@@ -1,0 +1,3 @@
+Initial project structure for my daily code katas, written in Scala and build with SBT.
+
+DATACONTENT taken from https://www.kaggle.com/camnugent/california-housing-prices
